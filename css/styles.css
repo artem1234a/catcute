@@ -16,18 +16,18 @@ body{
 
 .top-cat{
   border-radius: 300px;
-  position: absolute;
-  left: 70rem;
-  height: 50%;
+  position: relative;
+  left: 20rem;
+  height: 200px;
 
 
 }
 
 .bottom-cat{
   border-radius: 300px;
-  position: absolute;
-  right: 70rem;
-  height: 50%;
+  position: relative;
+  right: 20rem;
+  height: 200px;
 }
 h1{
   color: #464E2E;
